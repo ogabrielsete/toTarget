@@ -1,0 +1,7 @@
+C:\dev\target\Target\zeroUm\bin\Debug\zeroUm.exe.config
+C:\dev\target\Target\zeroUm\bin\Debug\zeroUm.exe
+C:\dev\target\Target\zeroUm\bin\Debug\zeroUm.pdb
+C:\dev\target\Target\zeroUm\obj\Debug\zeroUm.csproj.AssemblyReference.cache
+C:\dev\target\Target\zeroUm\obj\Debug\zeroUm.csproj.CoreCompileInputs.cache
+C:\dev\target\Target\zeroUm\obj\Debug\zeroUm.exe
+C:\dev\target\Target\zeroUm\obj\Debug\zeroUm.pdb

@@ -1,0 +1,7 @@
+C:\dev\target\Target\zeroDois\bin\Debug\zeroDois.exe.config
+C:\dev\target\Target\zeroDois\bin\Debug\zeroDois.exe
+C:\dev\target\Target\zeroDois\bin\Debug\zeroDois.pdb
+C:\dev\target\Target\zeroDois\obj\Debug\zeroDois.csproj.AssemblyReference.cache
+C:\dev\target\Target\zeroDois\obj\Debug\zeroDois.csproj.CoreCompileInputs.cache
+C:\dev\target\Target\zeroDois\obj\Debug\zeroDois.exe
+C:\dev\target\Target\zeroDois\obj\Debug\zeroDois.pdb

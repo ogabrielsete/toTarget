@@ -1,0 +1,7 @@
+C:\dev\target\Target\zeroCinco\bin\Debug\zeroCinco.exe.config
+C:\dev\target\Target\zeroCinco\bin\Debug\zeroCinco.exe
+C:\dev\target\Target\zeroCinco\bin\Debug\zeroCinco.pdb
+C:\dev\target\Target\zeroCinco\obj\Debug\zeroCinco.csproj.AssemblyReference.cache
+C:\dev\target\Target\zeroCinco\obj\Debug\zeroCinco.csproj.CoreCompileInputs.cache
+C:\dev\target\Target\zeroCinco\obj\Debug\zeroCinco.exe
+C:\dev\target\Target\zeroCinco\obj\Debug\zeroCinco.pdb
